@@ -21,7 +21,7 @@
 
 ![Htmlのコンテンツ](./files/html_screen.png)　
 
-一部Like表データの内容．
+検索したLike表データの内容．
 
 ## 補足
 
